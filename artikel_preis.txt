@@ -1,0 +1,7 @@
+1;Erdbeeren;3.50
+2;Äpfel;2.00
+3;Orangen;1.20
+4;Bananen;1.50
+5;Karotten;2.00
+6;Zitronen;1.20
+7;Joghurt;1.50
